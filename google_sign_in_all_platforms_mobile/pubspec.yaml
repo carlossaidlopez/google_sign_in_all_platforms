@@ -49,7 +49,6 @@ flutter:
         dartPluginClass: GoogleSignInAllPlatformsMobile
       web:
         pluginClass: GoogleSignInAllPlatformsMobileWeb
-        fileName: google_sign_in_all_platforms_mobile_web.dart
         dartPluginClass: GoogleSignInAllPlatformsMobile
 
 false_secrets:
